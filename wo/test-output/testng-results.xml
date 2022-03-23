@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75" started-at="2022-03-23T14:20:05 IST" finished-at="2022-03-23T14:20:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75" started-at="2022-03-23T14:20:05 IST" finished-at="2022-03-23T14:20:05 IST">
+      <class name="wo.CreateContant">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:wo.CreateContant@4b553d26]" name="createContact" duration-ms="11" started-at="2022-03-23T14:20:05 IST" finished-at="2022-03-23T14:20:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- wo.CreateContant -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
