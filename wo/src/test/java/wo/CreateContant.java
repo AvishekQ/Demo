@@ -7,5 +7,6 @@ public class CreateContant {
 	@Test 
 	public void createContact() {
 		System.out.println("Contact created succesfully");
+		System.out.println("Contact edited");
 	}
 }
