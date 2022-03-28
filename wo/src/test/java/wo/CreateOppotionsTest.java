@@ -2,7 +2,7 @@ package wo;
 
 import org.testng.annotations.Test;
 
-public class CreateOppotions {
+public class CreateOppotionsTest {
 
 	@Test
 	public void createOptions() {

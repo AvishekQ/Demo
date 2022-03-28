@@ -2,7 +2,7 @@ package wo;
 
 import org.testng.annotations.Test;
 
-public class CreateAvishek {
+public class CreateAvishekTest {
 @Test
 public void avishek()
 {
